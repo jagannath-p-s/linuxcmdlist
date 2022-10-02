@@ -1,0 +1,33 @@
+DIRECTORY MANAGEMENT COMMANDS
+
+pwd - displays present working directory
+
+mkdir name - make directory name
+
+cd name - change directory to name
+
+cd .. - return to the present folder
+
+cd ~ - to return to the home folder
+
+ls - list
+
+ls -l - long listing folder contents
+
+ls *c - To list all files starting with letteer c
+
+ls -l -s - to list all folder contents by file size
+
+ls -l -s -r - to list all folder contents by reverse file size
+
+rmdir name - remove folder
+
+ls *.c - to list all c programs
+
+cat > filename - creates new file
+
+cp - copy file 
+
+mv - move file
+
+rm - remove file
